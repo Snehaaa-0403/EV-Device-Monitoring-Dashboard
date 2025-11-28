@@ -8,11 +8,9 @@ npm install
 npm start
 
 
-Backend runs at:
-http://localhost:5000
+Backend runs at: http://localhost:5000
 
-API Routes:
-
+API Routes
 GET /api/devices
 GET /api/devices?status=active
 GET /api/devices?status=warning
@@ -24,8 +22,7 @@ npm install
 npm run dev
 
 
-Frontend runs at:
-http://localhost:5173
+Frontend runs at: http://localhost:5173
 
 Ensure the backend is running so the frontend can fetch data.
 
